@@ -49,10 +49,10 @@ h2 {
 	color: #667a7b;
 }
 
-.col {
+#links a {
 	float: left;
-	width: 23%;
-	margin-left: 2.666%;
+	width: 22.5%;
+	margin: 2%;
 }
 
 .first {
