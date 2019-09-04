@@ -31,5 +31,6 @@ header h1 {
 }
 
 #about img {
-	border: 3px #9aada7;
+	border: 3px;
+	border-color: #9aada7;
 }
