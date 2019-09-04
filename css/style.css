@@ -24,7 +24,7 @@ body {
 }
 
 /* Write all remaining styles here */
-#logo {
-	font-family: Baskerville, cursive;
+header h1 {
+	font-family: 'Baskerville', serif;
 	color: #9aa9a4;
 }
