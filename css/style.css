@@ -23,6 +23,15 @@ body {
 	padding: 0 45px 20px;
 }
 
+.clearfix {
+	content: " ";
+	visibility: hidden;
+	display: block;
+	clear: both;
+	height: 0;
+	line-height: 0;
+}
+
 /* Write all remaining styles here */
 header h1 {
 	font-size: 5em;
@@ -43,3 +52,4 @@ footer {
 	float: right;
 	clear: both;
 }
+
