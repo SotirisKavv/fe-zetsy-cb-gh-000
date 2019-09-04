@@ -38,3 +38,8 @@ header h1 {
 h2 {
 	color: #667a7b;
 }
+
+footer {
+	float: right;
+	clear: both;
+}
