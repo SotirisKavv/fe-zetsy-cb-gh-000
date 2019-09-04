@@ -49,15 +49,15 @@ h2 {
 	color: #667a7b;
 }
 
+.first {
+	margin-left: 0%
+}
+
 #links a {
 	float: left;
 	border: 3px #6f7e79;
 	width: 22.5%;
 	margin: 1.25%;
-}
-
-.first {
-	margin-left: 0%
 }
 
 footer {
