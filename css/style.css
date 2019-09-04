@@ -40,8 +40,7 @@ header h1 {
 }
 
 #about img {
-	border: 5px;
-	border-color: #9aada7;
+	border: 5px #9aada7 solid;
 	width: 100%;
 }
 
