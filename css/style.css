@@ -42,10 +42,21 @@ header h1 {
 #about img {
 	border: 5px;
 	border-color: #9aada7;
+	width: 100%;
 }
 
 h2 {
 	color: #667a7b;
+}
+
+.col {
+	float: left;
+	width: 23%;
+	margin-left: 2.666%;
+}
+
+.first {
+	margin-left: 0%
 }
 
 footer {
