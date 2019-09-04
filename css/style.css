@@ -58,7 +58,7 @@ h2 {
 	margin: 1.25%;
 }
 
-#links a img {
+#links img {
 	border: 5px #ccc solid;
 }
 
@@ -66,6 +66,6 @@ footer {
 	float: right;
 }
 
-#link a:hover img {
+#link img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
