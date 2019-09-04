@@ -51,8 +51,13 @@ h2 {
 
 #links a {
 	float: left;
-	width: 22.5%;
+	border: 2%
+	width: 20.5%;
 	margin: 1.25%;
+}
+
+#links a {
+	
 }
 
 .first {
